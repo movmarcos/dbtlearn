@@ -1,4 +1,4 @@
-#pip install sqlalchemy snowflake-sqlalchemy markdown pyyaml
+pip install sqlalchemy snowflake-sqlalchemy markdown pyyaml
 
 import sqlalchemy as sa
 from sqlalchemy import create_engine
